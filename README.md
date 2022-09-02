@@ -140,10 +140,8 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 - [Julien Monty](https://github.com/konpa) for super useful [devicon](https://github.com/konpa/devicon)
 - [Eliot Sanford](https://github.com/techieeliot) for adding hashnode as a blog input
 
-## 🙇 Sponsors
+## Resources
 
-- [Scott C Wilson](https://github.com/scottcwilson) donated the first-ever grant to this tool. A big thanks to him.
-- [Max Schmitt](https://github.com/mxschmitt) loved the tool and showed support with his donation. Thanks a lot.
-- [Aadit Kamat](https://github.com/aaditkamat) find the tool useful and showed support with his donation. A big thanks to him.
-- [Jean-Michel Fayard](https://github.com/jmfayard) used the generator to create his GitHub Profile README and he loved it. Thanks to him for showing support to the tool with the donation.
+- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)
+- [GitHub Readme Streak Stats](http://github-readme-streak-stats.herokuapp.com/demo/)
 

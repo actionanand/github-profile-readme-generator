@@ -79,7 +79,8 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "jest -i -u --coverage",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master"
+    "predeploy": "gatsby build --prefix-paths",
+    "deploy": "gh-pages -d public"
   },
   "repository": {
     "type": "git",
